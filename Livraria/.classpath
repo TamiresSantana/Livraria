@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/ACER/Documents/jPDFNotes.v2018R1.00.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ACER/Documents/jPDFNotes.v2018R1.02.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ACER/Documents/jPDFNotes.v2018R1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ACER/Documents/jPDFNotes.v2018R1.05.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ACER/Documents/jPDFNotes.v2018R1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ACER/Documents/jPDFNotes.v2018R1.07.jar"/>
+	<classpathentry kind="output" path="bin1"/>
+</classpath>
